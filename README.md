@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi
 
+- 🔭 Currently working on syscall detection and system polymorphism
+- 🌱 Interests: (operating) systems, security...
+ 
 <!--
 **MrBanc/MrBanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
